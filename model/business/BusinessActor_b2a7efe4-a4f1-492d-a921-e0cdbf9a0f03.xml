@@ -1,3 +1,4 @@
-<archimate:BusinessActor documentation="Some documentation" id="z2a7efe4-a4f1-492d-a921-e0cdbf9a0f03" name="Test name" xmlns="http://www.archimatetool.com/archimate">
-	<properties Name="Test Name"/>
-</archimate:BusinessActor>
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Actor"
+    id="b2a7efe4-a4f1-492d-a921-e0cdbf9a0f03"/>
