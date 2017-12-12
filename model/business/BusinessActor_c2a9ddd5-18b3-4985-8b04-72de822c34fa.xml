@@ -1,0 +1,4 @@
+<archimate:BusinessActor documentation="Documentation for Actor ACT1001" id="c2a9ddd5-18b3-4985-8b04-72de822c34fa" name="ACT1001" xmlns:archimate="http://www.archimatetool.com/archimate">
+	<properties key="Description" value="Some description text for ACT1001"/>
+	<properties key="shortname" value="ACT"/>
+</archimate:BusinessActor>
